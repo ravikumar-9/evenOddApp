@@ -1,0 +1,56 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #ffffff;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.counter-card {
+  background-image: linear-gradient(#ff6e7f, #bfe9ff);
+  border-radius: 10px;
+  border-width: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+.count-heading {
+  font-weight: bold;
+  font-size: 30px;
+  color: #0f172a;
+  font-family: 'roboto';
+}
+.count-value {
+  font-weight: bold;
+  font-size: 30px;
+  color: #0f172a;
+  font-family: 'roboto';
+}
+.count-description {
+  font-size: 20px;
+  color: #334155;
+  font-family: 'roboto';
+}
+.even-description {
+  font-size: 20px;
+  color: #334155;
+  font-family: 'roboto';
+}
+.increment-button {
+  height: 30px;
+  width: 80px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  color: 1e293b;
+  font-size: 10px;
+  font-family: 'roboto';
+  border-width: 0px;
+}
+.description {
+  font-size: 14px;
+  color: #1e293b;
+  font-family: 'roboto';
+}
